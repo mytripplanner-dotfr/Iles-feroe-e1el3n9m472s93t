@@ -1,0 +1,169 @@
+{
+  "pays": "Iles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Îles Féroé : Douceur et Paysages Époustouflants",
+  "budget_total": "1593 €",
+  "duree": "4 jours",
+  "temps_vol": "2h40 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée Douce et Charme de Tórshavn",
+      "legende": "Après un vol pittoresque, prenez vos marques dans la capitale la plus petite du monde. Flânez dans ses ruelles colorées, imprégnez-vous de l'atmosphère maritime et préparez-vous à l'aventure nordique en toute sérénité.",
+      "lieu": "Vágar & Tórshavn",
+      "activites": [
+        "<strong>🛬 Arrivée à Vágar et prise en charge du véhicule</strong>: Atterrissez à l'aéroport de Vágar (FAE), récupérez votre voiture de location, indispensable pour explorer les îles en toute liberté.",
+        "<strong>🛏️ Installation à Tórshavn</strong>: Rejoignez Tórshavn, la capitale, et installez-vous confortablement dans votre hébergement pour les prochains jours.",
+        "<strong>🚶‍♂️ Balade relaxante à Tinganes et Reyn</strong>: Découvrez le quartier historique de Tinganes avec ses maisons aux toits d'herbe et les charmantes ruelles de Reyn, parfait pour une première immersion."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "La voiture est essentielle aux Féroé. Réservez-la bien à l'avance, surtout en haute saison, pour garantir la disponibilité et de meilleurs tarifs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Merveilles de Vágar : Lac et Cascade Iconique",
+      "legende": "Explorez l'île de Vágar, un concentré de paysages emblématiques. Entre un lac suspendu au-dessus de l'océan et une cascade tombant directement dans la mer, la nature féroïenne se révèle dans toute sa splendeur et sa quiétude.",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>💧 Visite de Gásadalur et la cascade Múlafossur</strong>: Admirez le village isolé de Gásadalur et sa célèbre cascade Múlafossur, l'une des images les plus iconiques des Féroé, tombant majestueusement dans l'Atlantique.",
+        "<strong>🚶‍♀️ Promenade au lac Sørvágsvatn (Leitisvatn)</strong>: Profitez d'une balade douce autour du \"lac au-dessus de l'océan\", offrant des vues spectaculaires sur cette illusion d'optique naturelle sans effort excessif.",
+        "<strong>🏘️ Découverte du village de Bøur</strong>: Flânez dans le charmant village de Bøur, connu pour ses maisons traditionnelles aux toits d'herbe et ses vues imprenables sur les îlots de Tindhólmur et Gáshólmur."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Chaussures de marche",
+          "texte": "Même pour des balades douces, des chaussures de marche imperméables et confortables sont indispensables pour profiter pleinement des paysages sans désagrément."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Villages Pittoresques et Géants Légendaires",
+      "legende": "Aujourd'hui, plongez dans l'âme des Féroé en visitant des villages isolés et en admirant des formations rocheuses légendaires. Laissez-vous charmer par la tranquillité et la beauté brute de ces lieux hors du temps, propices à la contemplation.",
+      "lieu": "Streymoy & Eysturoy",
+      "activites": [
+        "<strong>⛪ Exploration de Saksun</strong>: Découvrez le hameau idyllique de Saksun, niché au fond d'un fjord, avec son église isolée et ses maisons aux toits d'herbe, un véritable havre de paix.",
+        "<strong>🌊 Admiration de la cascade Fossá</strong>: Arrêtez-vous devant la cascade de Fossá, la plus haute des Féroé, qui dévale en deux paliers impressionnants jusqu'à la mer, offrant un spectacle naturel apaisant.",
+        "<strong>🗿 Visite de Tjørnuvík et les rochers Risin & Kellingin</strong>: Profitez de la vue sur la plage de sable noir de Tjørnuvík et les célèbres rochers \"le Géant et la Sorcière\" depuis la côte, imprégnés de légendes."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🐑",
+          "titre": "Rencontres inattendues",
+          "texte": "Les moutons sont omniprésents aux Féroé, souvent sur les routes. Conduisez prudemment et soyez prêt à vous arrêter pour les laisser passer, ils sont chez eux ici."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Histoire et Départ Serein",
+      "legende": "Avant de quitter ces îles magiques, explorez un site historique majeur. Profitez d'une dernière immersion dans la culture féroïenne avant de prendre le chemin de l'aéroport, la tête pleine de souvenirs inoubliables et l'esprit apaisé.",
+      "lieu": "Streymoy & Vágar",
+      "activites": [
+        "<strong>📜 Découverte du site historique de Kirkjubøur</strong>: Visitez Kirkjubøur, le centre culturel et ecclésiastique historique des Féroé, avec sa cathédrale inachevée et sa ferme royale, pour une touche d'histoire.",
+        "<strong>🛍️ Derniers achats et souvenirs</strong>: Profitez des dernières heures pour acheter des souvenirs locaux, comme des pulls en laine féroïenne, à Tórshavn ou à l'aéroport.",
+        "<strong>🛫 Départ de Vágar</strong>: Rendez votre voiture de location à l'aéroport de Vágar et envolez-vous vers Paris, emportant avec vous la sérénité des îles Féroé."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌦️",
+          "titre": "Météo changeante",
+          "texte": "La météo aux Féroé est imprévisible. Prévoyez toujours des couches de vêtements, un imperméable et un coupe-vent, quelle que soit la saison, pour un confort optimal."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 368 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 400 €/pers (location voiture + essence)",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 300 €/pers",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 450 €/pers (3 nuits en hôtel 3* ou guesthouse)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 75 €/pers (principalement des frais d'accès ou petite excursion)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Juin à Septembre (pour des températures plus douces et plus de lumière)",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie est la Couronne Féroïenne (DKK), liée à la Couronne Danoise. Les cartes de crédit sont largement acceptées.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le permis de conduire français est suffisant pour louer une voiture. La conduite est à droite et les routes sont bien entretenues.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Les températures sont fraîches même en été (10-15°C). Prévoyez des vêtements chauds, imperméables et coupe-vent en toutes saisons.",
+      "symbole": "🧥"
+    },
+    {
+      "titre": "Le réseau mobile est bon dans les zones habitées. Le Wi-Fi est disponible dans la plupart des hébergements et cafés.",
+      "symbole": "📶"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.skyscanner.fr/routes/cdg/fae/paris-charles-de-gaulle-a-iles-feroe-vagar.html",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Visit Faroe Islands",
+      "url": "https://visitfaroeislands.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Location de voiture",
+      "titre": "Rentalcars",
+      "url": "https://www.rentalcars.com/fr/country/fo/",
+      "symbole": "🚗"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo YR.no",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-2610731/Faroe%20Islands/V%C3%A1gar/S%C3%B8rv%C3%A1gur",
+      "symbole": "🌤️"
+    }
+  ]
+}
